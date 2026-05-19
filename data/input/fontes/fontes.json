@@ -1,0 +1,49 @@
+{
+  "fontes": [
+    {
+      "nome": "MinC Brasil",
+      "url": "https://www.gov.br/cultura/pt-br",
+      "ativo": true
+    },
+    {
+      "nome": "ANCINE",
+      "url": "https://www.gov.br/ancine",
+      "ativo": true
+    },
+    {
+      "nome": "PBH",
+      "url": "https://prefeitura.pbh.gov.br/administracao-logistica-e-patrimonial/licitacoes-e-editais",
+      "ativo": true
+    },
+    {
+      "nome": "SECULT MG",
+      "url": "https://www.secult.mg.gov.br",
+      "ativo": true
+    },
+    {
+      "nome": "SPCINE",
+      "url": "https://spcine.com.br",
+      "ativo": true
+    },
+    {
+      "nome": "Prefeitura SP Cultura",
+      "url": "https://www.prefeitura.sp.gov.br/cidade/secretarias/cultura",
+      "ativo": true
+    },
+    {
+      "nome": "Creative Europe",
+      "url": "https://culture.ec.europa.eu/funding",
+      "ativo": true
+    },
+    {
+      "nome": "UNESCO",
+      "url": "https://www.unesco.org",
+      "ativo": true
+    },
+    {
+      "nome": "Vale",
+      "url": "https://www.vale.com",
+      "ativo": false
+    }
+  ]
+}

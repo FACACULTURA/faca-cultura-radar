@@ -1,0 +1,132 @@
+{
+  "fontes": [
+    {
+      "nome": "Fundo Setorial do Audiovisual - FSA",
+      "url": "https://www.gov.br/ancine/pt-br/fsa",
+      "dominio": "gov.br",
+      "tipo": "fundo",
+      "regiao": "Brasil",
+      "score": 13
+    },
+    {
+      "nome": "Fundo Setorial do Audiovisual - FSA",
+      "url": "https://www.gov.br/ancine/pt-br/fsa",
+      "dominio": "gov.br",
+      "tipo": "fundo",
+      "regiao": "Brasil",
+      "score": 13
+    },
+    {
+      "nome": "São Paulo Film Commission",
+      "url": "https://spcine.com.br/spfilmcommission/",
+      "dominio": "spcine.com.br",
+      "tipo": "film_commission",
+      "regiao": "Brasil",
+      "score": 10
+    },
+    {
+      "nome": "São Paulo Film Commission",
+      "url": "https://spcine.com.br/spfilmcommission/",
+      "dominio": "spcine.com.br",
+      "tipo": "film_commission",
+      "regiao": "Brasil",
+      "score": 10
+    },
+    {
+      "nome": "São Paulo Film Commission",
+      "url": "https://spcine.com.br/spfilmcommission/",
+      "dominio": "spcine.com.br",
+      "tipo": "film_commission",
+      "regiao": "Brasil",
+      "score": 10
+    },
+    {
+      "nome": "Narrative Content Market & Audience",
+      "url": "https://www.screenaustralia.gov.au/funding-and-support/narrative-content-production/market-audience",
+      "dominio": "screenaustralia.gov.au",
+      "tipo": "fundo",
+      "regiao": "Oceania",
+      "score": 18
+    },
+    {
+      "nome": "Assets",
+      "url": "https://www.screenaustralia.gov.au/funding-and-support/narrative-content-production/market-audience/assets-program",
+      "dominio": "screenaustralia.gov.au",
+      "tipo": "fundo",
+      "regiao": "Oceania",
+      "score": 18
+    },
+    {
+      "nome": "Audience Testing",
+      "url": "https://www.screenaustralia.gov.au/funding-and-support/narrative-content-production/market-audience/audience-testing-program",
+      "dominio": "screenaustralia.gov.au",
+      "tipo": "fundo",
+      "regiao": "Oceania",
+      "score": 18
+    },
+    {
+      "nome": "Indigenous Funding",
+      "url": "https://telefilm.ca/en/we-finance-and-support/indigenous-funding",
+      "dominio": "telefilm.ca",
+      "tipo": "fundo",
+      "regiao": "America do Norte",
+      "score": 10
+    },
+    {
+      "nome": "Explore our funding opportunities",
+      "url": "https://telefilm.ca/en/we-finance-and-support/our-programs",
+      "dominio": "telefilm.ca",
+      "tipo": "fundo",
+      "regiao": "America do Norte",
+      "score": 10
+    },
+    {
+      "nome": "Funding and industry",
+      "url": "https://www.bfi.org.uk/funding-industry",
+      "dominio": "bfi.org.uk",
+      "tipo": "fundo",
+      "regiao": "Europa",
+      "score": 13
+    },
+    {
+      "nome": "Labs, Fellowships, Grants, Programs",
+      "url": "https://www.sundance.org/apply",
+      "dominio": "sundance.org",
+      "tipo": "lab",
+      "regiao": "Internacional",
+      "score": 13
+    },
+    {
+      "nome": "Labs, Fellowships, Grants, Programs",
+      "url": "https://www.sundance.org/apply",
+      "dominio": "sundance.org",
+      "tipo": "lab",
+      "regiao": "Internacional",
+      "score": 13
+    },
+    {
+      "nome": "Labs, Fellowships, Grants, Programs",
+      "url": "https://www.sundance.org/apply",
+      "dominio": "sundance.org",
+      "tipo": "lab",
+      "regiao": "Internacional",
+      "score": 13
+    },
+    {
+      "nome": "Qumra 202627 March - 8 AprilQumra moves online",
+      "url": "https://www.dohafilminstitute.com/en/funding-industry/qumra",
+      "dominio": "dohafilminstitute.com",
+      "tipo": "fundo",
+      "regiao": "Internacional",
+      "score": 15
+    },
+    {
+      "nome": "Doha Film Festival 202619 – 27 November",
+      "url": "https://www.dohafilminstitute.com/en/watch-discover/dff",
+      "dominio": "dohafilminstitute.com",
+      "tipo": "festival",
+      "regiao": "Internacional",
+      "score": 10
+    }
+  ]
+}

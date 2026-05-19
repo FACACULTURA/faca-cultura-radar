@@ -1,0 +1,396 @@
+[
+  {
+    "nome": "Diário Oficial do Estado do Espírito Santo",
+    "estado": "ES",
+    "cidade": null,
+    "tipo": "diario_estadual",
+    "url": "https://dio.es.gov.br/",
+    "peso": 10
+  },
+  {
+    "nome": "Diário Oficial de Minas Gerais",
+    "estado": "MG",
+    "cidade": null,
+    "tipo": "diario_estadual",
+    "url": "https://www.jornalminasgerais.mg.gov.br/",
+    "peso": 10
+  },
+  
+  {
+    "nome": "Diário Oficial do Estado de Goiás",
+    "sigla": "DOEGO",
+    "abrangencia": "estadual",
+    "estado": "GO",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado do Maranhão",
+    "sigla": "DOEMA",
+    "abrangencia": "estadual",
+    "estado": "MA",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado de Mato Grosso",
+    "sigla": "DOEMT",
+    "abrangencia": "estadual",
+    "estado": "MT",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado de Mato Grosso do Sul",
+    "sigla": "DOE-MS",
+    "abrangencia": "estadual",
+    "estado": "MS",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado do Pará",
+    "sigla": "DOEPA",
+    "abrangencia": "estadual",
+    "estado": "PA",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado da Paraíba",
+    "sigla": "DOE-PB",
+    "abrangencia": "estadual",
+    "estado": "PB",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado do Paraná",
+    "sigla": "DIOE-PR",
+    "abrangencia": "estadual",
+    "estado": "PR",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado de Pernambuco",
+    "sigla": "DOEPE",
+    "abrangencia": "estadual",
+    "estado": "PE",
+    "cidade": null,
+    "url": null,
+    "status": "https://diariooficial.cepe.com.br/diariooficialweb/#/visualizar-diario",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado do Piauí",
+    "sigla": "DOEPI",
+    "abrangencia": "estadual",
+    "estado": "PI",
+    "cidade": null,
+    "url": null,
+    "status": "https://www.diario.pi.gov.br/doe/",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado do Rio de Janeiro",
+    "sigla": "DOERJ",
+    "abrangencia": "estadual",
+    "estado": "RJ",
+    "cidade": null,
+    "url": null,
+    "status": "https://portal.ioerj.com.br/",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado do Rio Grande do Norte",
+    "sigla": "DOE-RN",
+    "abrangencia": "estadual",
+    "estado": "RN",
+    "cidade": null,
+    "url": null,
+    "status": "https://www.diariooficial.rn.gov.br/dei/dorn3/",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado do Rio Grande do Sul",
+    "sigla": "DOE-RS",
+    "abrangencia": "estadual",
+    "estado": "RS",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado de Rondônia",
+    "sigla": "DOE-RO",
+    "abrangencia": "estadual",
+    "estado": "RO",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado de Roraima",
+    "sigla": "DOE-RR",
+    "abrangencia": "estadual",
+    "estado": "RR",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado de Santa Catarina",
+    "sigla": "DOE-SC",
+    "abrangencia": "estadual",
+    "estado": "SC",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado de São Paulo",
+    "sigla": "DOE-SP",
+    "abrangencia": "estadual",
+    "estado": "SP",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado de Sergipe",
+    "sigla": "DOE-SE",
+    "abrangencia": "estadual",
+    "estado": "SE",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Estado do Tocantins",
+    "sigla": "DOE-TO",
+    "abrangencia": "estadual",
+    "estado": "TO",
+    "cidade": null,
+    "url": null,
+    "status": "pendente_url",
+    "peso": 8
+  },
+  {
+    "nome": "Diário Oficial do Município de Belo Horizonte",
+    "estado": "MG",
+    "cidade": "Belo Horizonte",
+    "tipo": "diario_municipal",
+    "url": "https://dom-web.pbh.gov.br/",
+    "peso": 10
+  },
+  {
+    "cidade": "Rio Branco",
+    "estado": "AC",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Maceió",
+    "estado": "AL",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Macapá",
+    "estado": "AP",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Manaus",
+    "estado": "AM",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 9
+  },
+  {
+    "cidade": "Salvador",
+    "estado": "BA",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 10
+  },
+  {
+    "cidade": "Fortaleza",
+    "estado": "CE",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 10
+  },
+  {
+    "cidade": "Brasília",
+    "estado": "DF",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 10
+  },
+  {
+    "cidade": "Vitória",
+    "estado": "ES",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Goiânia",
+    "estado": "GO",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 9
+  },
+  {
+    "cidade": "São Luís",
+    "estado": "MA",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Cuiabá",
+    "estado": "MT",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Campo Grande",
+    "estado": "MS",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Belo Horizonte",
+    "estado": "MG",
+    "tipo": "dom_municipal",
+    "url": "https://dom-web.pbh.gov.br/",
+    "peso": 10
+  },
+  {
+    "cidade": "Belém",
+    "estado": "PA",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 9
+  },
+  {
+    "cidade": "João Pessoa",
+    "estado": "PB",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 9
+  },
+  {
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 10
+  },
+  {
+    "cidade": "Recife",
+    "estado": "PE",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 10
+  },
+  {
+    "cidade": "Teresina",
+    "estado": "PI",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 10
+  },
+  {
+    "cidade": "Natal",
+    "estado": "RN",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Porto Alegre",
+    "estado": "RS",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 10
+  },
+  {
+    "cidade": "Porto Velho",
+    "estado": "RO",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Boa Vista",
+    "estado": "RR",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Florianópolis",
+    "estado": "SC",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 9
+  },
+  {
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 10
+  },
+  {
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  },
+  {
+    "cidade": "Palmas",
+    "estado": "TO",
+    "tipo": "dom_municipal",
+    "url": null,
+    "peso": 8
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "fontes": [
+    { "nome": "ANCINE", "url": "https://www.gov.br/ancine/pt-br" },
+    { "nome": "MinC", "url": "https://www.gov.br/cultura/pt-br" },
+    { "nome": "BRDE", "url": "https://brde.com.br/" },
+
+    { "nome": "SPCine", "url": "https://spcine.com.br" },
+    { "nome": "RioFilme", "url": "https://riofilme.com.br" },
+
+    { "nome": "Ibermedia", "url": "https://www.programaibermedia.com" },
+    { "nome": "Eurimages", "url": "https://www.eurimages.coe.int" },
+    { "nome": "EFAD", "url": "https://www.europeanfilmagencies.eu" },
+
+    { "nome": "TorinoFilmLab", "url": "https://www.torinofilmlab.it" },
+    { "nome": "Sundance", "url": "https://www.sundance.org/programs" },
+    { "nome": "Berlinale Talents", "url": "https://www.berlinale-talents.de" },
+    { "nome": "Doha Film Institute", "url": "https://www.dohafilminstitute.com" },
+
+    { "nome": "Show Me The Fund", "url": "https://www.showmethefund.com" },
+    { "nome": "FilmFreeway", "url": "https://filmfreeway.com/festivals" }
+  ]
+}

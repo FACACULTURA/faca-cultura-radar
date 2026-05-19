@@ -1,0 +1,2263 @@
+[
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "internacional",
+    "pais": "Internacional",
+    "classe": "oportunidade",
+    "titulo": "produtoras produtoras , distribuidoras , estúdios SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "edital",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 185,
+    "ano": NaN,
+    "link": "https://form.jotform.com/Spcine_International/credenciamento-de-produtoras-audiov",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Credenciamento de Produtoras Audiovisuais Paulistanas",
+    "titulo_principal": "tv",
+    "page_title": "Credenciamento de Produtoras Audiovisuais Paulistanas",
+    "breadcrumbs": "",
+    "texto_pagina": "Credenciamento de Produtoras Audiovisuais Paulistanas Credenciamento de Produtoras Audiovisuais Paulistanas",
+    "resumo_pagina": "",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": false,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 0
+    },
+    "score_enriquecimento": 0,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -374,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "Decreto Nº 56.905 SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": NaN,
+    "link": "https://spcine.com.br/wp-content/uploads/Decreto-Film-Commission-1.pdf",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_principal": "tv",
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 166,
+    "motivos_fonte": [
+      "fonte conhecida: +90",
+      "sinal forte: spcine",
+      "sinal forte: audiovisual",
+      "sinal geral quente: pdf",
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema",
+      "pdf"
+    ],
+    "tipo_fonte": "fonte_mae",
+    "pais_fonte": "Brasil",
+    "estado_fonte": "SP",
+    "estado": "SP",
+    "score_semantico": -179,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "pdf",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "Decreto de Filmagens SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": NaN,
+    "link": "https://spcine.com.br/wp-content/uploads/Decreto-Film-Commission-1.pdf",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_principal": "tv",
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 166,
+    "motivos_fonte": [
+      "fonte conhecida: +90",
+      "sinal forte: spcine",
+      "sinal forte: audiovisual",
+      "sinal geral quente: pdf",
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema",
+      "pdf"
+    ],
+    "tipo_fonte": "fonte_mae",
+    "pais_fonte": "Brasil",
+    "estado_fonte": "SP",
+    "estado": "SP",
+    "score_semantico": -179,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "pdf",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "Preços públicos para filmagens na cidade de São Paulo SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": 2026.0,
+    "link": "https://spcine.com.br/wp-content/uploads/Precos-2026-1.pdf",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_principal": "tv",
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 166,
+    "motivos_fonte": [
+      "fonte conhecida: +90",
+      "sinal forte: spcine",
+      "sinal forte: audiovisual",
+      "sinal geral quente: pdf",
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema",
+      "pdf"
+    ],
+    "tipo_fonte": "fonte_mae",
+    "pais_fonte": "Brasil",
+    "estado_fonte": "SP",
+    "estado": "SP",
+    "score_semantico": -179,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "pdf",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "aqui . Leia os procedimentos necessários para a autorização aqui . SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": NaN,
+    "link": "https://spcine.com.br/wp-content/uploads/AUTORIZACAO-ESPECIAL-DE-TRANSITO-PARA-CAMINHOES-AETC.pdf",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_principal": "tv",
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 166,
+    "motivos_fonte": [
+      "fonte conhecida: +90",
+      "sinal forte: spcine",
+      "sinal forte: audiovisual",
+      "sinal geral quente: pdf",
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema",
+      "pdf"
+    ],
+    "tipo_fonte": "fonte_mae",
+    "pais_fonte": "Brasil",
+    "estado_fonte": "SP",
+    "estado": "SP",
+    "score_semantico": -179,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "pdf",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "aqui SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": NaN,
+    "link": "https://spcine.com.br/wp-content/uploads/SPFilm-Guia-de-Zoneamento.pdf",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_principal": "tv",
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 166,
+    "motivos_fonte": [
+      "fonte conhecida: +90",
+      "sinal forte: spcine",
+      "sinal forte: audiovisual",
+      "sinal geral quente: pdf",
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema",
+      "pdf"
+    ],
+    "tipo_fonte": "fonte_mae",
+    "pais_fonte": "Brasil",
+    "estado_fonte": "SP",
+    "estado": "SP",
+    "score_semantico": -179,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "pdf",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "aqui SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": NaN,
+    "link": "https://spcine.com.br/wp-content/uploads/Cartilha-ZER-Interna.pdf",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_principal": "tv",
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 166,
+    "motivos_fonte": [
+      "fonte conhecida: +90",
+      "sinal forte: spcine",
+      "sinal forte: audiovisual",
+      "sinal geral quente: pdf",
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema",
+      "pdf"
+    ],
+    "tipo_fonte": "fonte_mae",
+    "pais_fonte": "Brasil",
+    "estado_fonte": "SP",
+    "estado": "SP",
+    "score_semantico": -179,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "pdf",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "distribuidoras produtoras , distribuidoras , estúdios SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": NaN,
+    "link": "https://form.jotform.com/222443882703658",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Credenciamento de Distribuidoras Paulistanas",
+    "titulo_principal": "tv",
+    "page_title": "Credenciamento de Distribuidoras e Estúdios Paulistanos",
+    "breadcrumbs": "",
+    "texto_pagina": "Credenciamento de Distribuidoras Paulistanas Credenciamento de Distribuidoras e Estúdios Paulistanos",
+    "resumo_pagina": "",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": false,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 0
+    },
+    "score_enriquecimento": 0,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -374,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "estúdios produtoras , distribuidoras , estúdios SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": NaN,
+    "link": "https://form.jotform.com/222406560226650",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Credenciamento de Estúdios Paulistanos",
+    "titulo_principal": "tv",
+    "page_title": "Credenciamento de Distribuidoras e Estúdios Paulistanos",
+    "breadcrumbs": "",
+    "texto_pagina": "Credenciamento de Estúdios Paulistanos Credenciamento de Distribuidoras e Estúdios Paulistanos",
+    "resumo_pagina": "",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": false,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 0
+    },
+    "score_enriquecimento": 0,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -374,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Não identificado",
+    "classe": "noticia",
+    "titulo": "t.me/Spfilmcommission SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais plataformas. Além de movimentar a economia do audiovisual, a",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 145,
+    "ano": NaN,
+    "link": "https://t.me/Spfilmcommission",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Telegram: Contact @Spfilmcommission",
+    "titulo_principal": "tv",
+    "page_title": "Telegram: Contact @Spfilmcommission",
+    "breadcrumbs": "",
+    "texto_pagina": "Telegram: Contact @Spfilmcommission",
+    "resumo_pagina": "",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": false,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 0
+    },
+    "score_enriquecimento": 0,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -374,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "VAF",
+    "origem_tipo": "outro",
+    "pais": "Não identificado",
+    "classe": "revisao",
+    "titulo": "Het VAF-team Het VAF zet zich in om films, games en series te ondersteunen, van idee tot beleving. Het VAF-team",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 125,
+    "ano": NaN,
+    "link": "https://www.vaf.be/team",
+    "origem": "https://vaf.be",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Cookie-instellingen",
+    "titulo_principal": "serie",
+    "page_title": "Het VAF-team | Vlaams Audiovisueel Fonds",
+    "breadcrumbs": "Home",
+    "texto_pagina": "Cookie-instellingen Het VAF-team | Vlaams Audiovisueel Fonds Home Onze website bewaart vier soorten cookies. Je kan zelf op elk moment kiezen welke je aanvaardt en welke niet. Meer informatie over wat cookies zijn en welke types cookies we verzamelen kan je lezen in ons cookiebeleid . Op zoek naar de juiste contactpersoon binnen het VAF? Hier vind je onze medewerkers. Je vraagt je misschien af waarom sommige VAF-medewerkers voornaamwoorden vermelden in hun e-mailhandtekening? Hier vind je wat meer context . Ontvang nieuws over de sector op maat van je interesses",
+    "resumo_pagina": "Onze website bewaart vier soorten cookies. Je kan zelf op elk moment kiezen welke je aanvaardt en welke niet. Meer informatie over wat cookies zijn en welke types cookies we verzamelen kan je lezen in ons cookiebeleid . Op zoek naar de juiste contactpersoon binnen het VAF? Hier vind je onze medewerkers. Je vraagt je misschien af waarom sommige VAF-medewerkers voornaamwoorden vermelden in hun e-mailhandtekening? Hier vind je wat meer context . Ontvang nieuws over de sector op maat van je interesses",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": false,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 0
+    },
+    "score_enriquecimento": 0,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "serie",
+        "tv"
+      ],
+      "titulo_semantico": "serie"
+    },
+    "score_fonte": 0,
+    "motivos_fonte": [],
+    "score_semantico": 80,
+    "motivos_score_semantico": [
+      "termos audiovisual"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "Catálogo de Produtoras Paulistanas Para facilitar a troca entre entidades do setor audiovisual internacional com produtoras locais, a Spcine criou o Catálogo de Produtoras Paulistanas . O Catálogo acaba de ser ampliado para contemplar também distribuidoras e estúdios. O documento disponível em inglês, reúne inform SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facil",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 105,
+    "ano": NaN,
+    "link": "https://spcine.com.br/wp-content/uploads/catalog_spcine_2024_compressed.pdf",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_principal": "audiovisual",
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "audiovisual"
+      ],
+      "titulo_semantico": "audiovisual"
+    },
+    "score_fonte": 143,
+    "motivos_fonte": [
+      "fonte conhecida: +90",
+      "sinal forte: spcine",
+      "sinal forte: audiovisual",
+      "sinal geral quente: pdf",
+      "sinal geral quente: audiovisual",
+      "pdf",
+      "documento derivado"
+    ],
+    "tipo_fonte": "fonte_mae",
+    "pais_fonte": "Brasil",
+    "estado_fonte": "SP",
+    "estado": "SP",
+    "score_semantico": 268,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "pdf"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "Acompanhe nossas novidades no Instagram @spfilmcommission Fotos: José Cordeiro/SPTuris e Sylvia Masini Acompanhe nossas novidades no Instagram @spfilmcommission SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilitando as filmagens nacionais e estrangeiras. A proposta é que as diversas paisagens de São Paulo sirvam de locações para produções de cinema, TV e demais",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 90,
+    "ano": NaN,
+    "link": "https://www.instagram.com/spfilmcommission/",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "São Paulo Film Commission (@spfilmcommission) • Instagram photos and videos",
+    "titulo_principal": "tv",
+    "page_title": "São Paulo Film Commission (@spfilmcommission) • Instagram photos and videos",
+    "breadcrumbs": "",
+    "texto_pagina": "São Paulo Film Commission (@spfilmcommission) • Instagram photos and videos",
+    "resumo_pagina": "",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "tv",
+        "cinema"
+      ],
+      "titulo_semantico": "tv"
+    },
+    "score_fonte": -4,
+    "motivos_fonte": [
+      "sinal geral quente: cinema",
+      "sinal geral quente: video",
+      "sinal geral frio: fotos"
+    ],
+    "score_semantico": 176,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "bolsas e apoios",
+    "origem_tipo": "outro",
+    "pais": "Não identificado",
+    "classe": "noticia",
+    "titulo": "VRS Canada website Canada Council also welcomes VRS (Video Relay Service) calls. For more information, please visit the VRS Canada website (http://srvcanadavrs.ca/en/).",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 87,
+    "ano": NaN,
+    "link": "http://srvcanadavrs.ca/en/",
+    "origem": "https://canadacouncil.ca/contact",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Canada Video Relay Service where \"Access is Opportunity\"",
+    "titulo_principal": null,
+    "page_title": "Home - SRV Canada VRS",
+    "breadcrumbs": "",
+    "texto_pagina": "Canada Video Relay Service where \"Access is Opportunity\" Home - SRV Canada VRS About Us Strategic Plan Board of Directors Our Staff Stakeholder Organizations Our Partners Procurement Using VRS Deaf Callers Deaf Youth Hearing Callers Businesses & Organizations Video Interpreters Outreach Outreach Events School Activities Community Stories Resource Centre Manuals Technical Support VI Tips App Features App Set-Up App Updates About Us Strategic Plan Board of Directors Our Staff Stakeholder Organizations Our Partners Procurement Using VRS Deaf Callers Deaf Youth Hearing Callers Businesses & Organizations Video Interpreters Outreach Outreach Events School Activities Community Stories Resource Centre Manuals Technical Support VI Tips App Features App Set-Up App Updates About Us Strategic Plan Board of Directors Our Staff Stakeholder Organizations Our Partners Procurement Using VRS Deaf Callers Deaf Youth Hearing Callers Businesses & Organizations Video Interpreters",
+    "resumo_pagina": "About Us Strategic Plan Board of Directors Our Staff Stakeholder Organizations Our Partners Procurement Using VRS Deaf Callers Deaf Youth Hearing Callers Businesses & Organizations Video Interpreters Outreach Outreach Events School Activities Community Stories",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "Video Interpreters",
+        "url": "https://srvcanadavrs.ca/en/video-interpreters/",
+        "score": 25
+      },
+      {
+        "texto": "Video Interpreters",
+        "url": "https://srvcanadavrs.ca/en/video-interpreters/",
+        "score": 25
+      },
+      {
+        "texto": "Video Interpreters",
+        "url": "https://srvcanadavrs.ca/en/video-interpreters/",
+        "score": 25
+      },
+      {
+        "texto": "Video Interpreters",
+        "url": "https://srvcanadavrs.ca/en/video-interpreters/",
+        "score": 25
+      },
+      {
+        "texto": "Video Interpreters",
+        "url": "http://srvcanadavrs.ca/en/video-interpreters/",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [],
+      "titulo_semantico": ""
+    },
+    "score_fonte": 8,
+    "motivos_fonte": [
+      "sinal geral quente: video"
+    ],
+    "score_semantico": 108,
+    "motivos_score_semantico": [
+      "audiovisual"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "CNC",
+    "origem_tipo": "outro",
+    "pais": "França",
+    "classe": "fonte_contexto",
+    "titulo": ">> toutes les actualités séries & TV",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 85,
+    "ano": NaN,
+    "link": "https://cnc.fr/series-tv/actualites",
+    "origem": "https://cnc.fr",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Actualités séries et TV",
+    "titulo_principal": "série",
+    "page_title": "Actualités séries et TV | CNC",
+    "breadcrumbs": "Accueil Séries & TV Actualités séries et TV",
+    "texto_pagina": "Actualités séries et TV Actualités séries et TV | CNC Accueil Séries & TV Actualités séries et TV Cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les aides au cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Registres du cinéma et de l'audiovisuel (RCA) Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les aides au cinéma Séries & TV Actualités Dossiers Guides Décryptages >> toutes les actualités séries & TV Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Sensibilisation à l'écriture scénaristique dès le plus jeune âge - Écris ta série ! >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications séries & TV Services et démarches Catalogue des vidéos à la demande Images de la Culture >> tous les services >> toutes les démarches Le CNC aide votre projet Séries et TV Ecriture et développement Production Diffusion >> toutes les aides à l'audiovisuel Actualités Dossiers Guides Décryptages >> toutes les actualités séries & TV",
+    "resumo_pagina": "Cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les ",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "Cinéma",
+        "url": "https://www.cnc.fr/cinema",
+        "score": 25
+      },
+      {
+        "texto": "Actualités",
+        "url": "https://cnc.fr/cinema/actualites",
+        "score": 25
+      },
+      {
+        "texto": "Dossiers",
+        "url": "https://cnc.fr/cinema/dossiers",
+        "score": 25
+      },
+      {
+        "texto": "Guides",
+        "url": "https://cnc.fr/cinema/guides",
+        "score": 25
+      },
+      {
+        "texto": "Décryptages",
+        "url": "https://cnc.fr/cinema/actualites/decryptages",
+        "score": 25
+      },
+      {
+        "texto": ">> toutes les actualités cinéma",
+        "url": "https://cnc.fr/cinema/actualites",
+        "score": 25
+      },
+      {
+        "texto": "Education à l'image",
+        "url": "https://cnc.fr/cinema/education-a-l-image",
+        "score": 25
+      },
+      {
+        "texto": "Ma classe au cinéma",
+        "url": "https://cnc.fr/cinema/ma-classe-au-cinema",
+        "score": 25
+      },
+      {
+        "texto": "Les Enfants des Lumière(s)",
+        "url": "https://cnc.fr/cinema/education-a-l-image/les-enfants-des-lumieres",
+        "score": 25
+      },
+      {
+        "texto": "L'Atelier cinéma",
+        "url": "https://cnc.fr/cinema/education-a-l-image/l-atelier-cinema",
+        "score": 25
+      },
+      {
+        "texto": ">> tous les dispositifs scolaires",
+        "url": "https://cnc.fr/cinema/education-a-l-image",
+        "score": 25
+      },
+      {
+        "texto": "Etudes et statistiques",
+        "url": "https://cnc.fr/cinema/etudes-et-rapports",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "série",
+        "tv"
+      ],
+      "titulo_semantico": "série"
+    },
+    "score_fonte": 0,
+    "motivos_fonte": [],
+    "score_semantico": -290,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "CNC",
+    "origem_tipo": "outro",
+    "pais": "França",
+    "classe": "noticia",
+    "titulo": ">> toutes les publications séries & TV",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 85,
+    "ano": NaN,
+    "link": "https://cnc.fr/series-tv/etudes-et-rapports",
+    "origem": "https://cnc.fr",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Etudes et statistiques Séries et fictions TV",
+    "titulo_principal": "série",
+    "page_title": "Etudes et rapports séries et TV | CNC",
+    "breadcrumbs": "Accueil Séries & TV Etudes et rapports séries & TV",
+    "texto_pagina": "Etudes et statistiques Séries et fictions TV Etudes et rapports séries et TV | CNC Accueil Séries & TV Etudes et rapports séries & TV Cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les aides au cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Registres du cinéma et de l'audiovisuel (RCA) Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les aides au cinéma Séries & TV Actualités Dossiers Guides Décryptages >> toutes les actualités séries & TV Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Sensibilisation à l'écriture scénaristique dès le plus jeune âge - Écris ta série ! >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications séries & TV Services et démarches Catalogue des vidéos à la demande Images de la Culture >> tous les services >> toutes les démarches Le CNC aide votre projet Séries et TV Ecriture et développement Production Diffusion >> toutes les aides à l'audiovisuel Actualités Dossiers Guides Décryptages >> toutes les actualités séries & TV",
+    "resumo_pagina": "Cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les ",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "Cinéma",
+        "url": "https://www.cnc.fr/cinema",
+        "score": 25
+      },
+      {
+        "texto": "Actualités",
+        "url": "https://cnc.fr/cinema/actualites",
+        "score": 25
+      },
+      {
+        "texto": "Dossiers",
+        "url": "https://cnc.fr/cinema/dossiers",
+        "score": 25
+      },
+      {
+        "texto": "Guides",
+        "url": "https://cnc.fr/cinema/guides",
+        "score": 25
+      },
+      {
+        "texto": "Décryptages",
+        "url": "https://cnc.fr/cinema/actualites/decryptages",
+        "score": 25
+      },
+      {
+        "texto": ">> toutes les actualités cinéma",
+        "url": "https://cnc.fr/cinema/actualites",
+        "score": 25
+      },
+      {
+        "texto": "Education à l'image",
+        "url": "https://cnc.fr/cinema/education-a-l-image",
+        "score": 25
+      },
+      {
+        "texto": "Ma classe au cinéma",
+        "url": "https://cnc.fr/cinema/ma-classe-au-cinema",
+        "score": 25
+      },
+      {
+        "texto": "Les Enfants des Lumière(s)",
+        "url": "https://cnc.fr/cinema/education-a-l-image/les-enfants-des-lumieres",
+        "score": 25
+      },
+      {
+        "texto": "L'Atelier cinéma",
+        "url": "https://cnc.fr/cinema/education-a-l-image/l-atelier-cinema",
+        "score": 25
+      },
+      {
+        "texto": ">> tous les dispositifs scolaires",
+        "url": "https://cnc.fr/cinema/education-a-l-image",
+        "score": 25
+      },
+      {
+        "texto": "Etudes et statistiques",
+        "url": "https://cnc.fr/cinema/etudes-et-rapports",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "série",
+        "tv"
+      ],
+      "titulo_semantico": "série"
+    },
+    "score_fonte": 0,
+    "motivos_fonte": [],
+    "score_semantico": -290,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "CNC",
+    "origem_tipo": "outro",
+    "pais": "França",
+    "classe": "noticia",
+    "titulo": "Etudes et statistiques Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications séries & TV",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 85,
+    "ano": NaN,
+    "link": "https://cnc.fr/series-tv/etudes-et-rapports",
+    "origem": "https://cnc.fr",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Etudes et statistiques Séries et fictions TV",
+    "titulo_principal": "série",
+    "page_title": "Etudes et rapports séries et TV | CNC",
+    "breadcrumbs": "Accueil Séries & TV Etudes et rapports séries & TV",
+    "texto_pagina": "Etudes et statistiques Séries et fictions TV Etudes et rapports séries et TV | CNC Accueil Séries & TV Etudes et rapports séries & TV Cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les aides au cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Registres du cinéma et de l'audiovisuel (RCA) Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les aides au cinéma Séries & TV Actualités Dossiers Guides Décryptages >> toutes les actualités séries & TV Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Sensibilisation à l'écriture scénaristique dès le plus jeune âge - Écris ta série ! >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications séries & TV Services et démarches Catalogue des vidéos à la demande Images de la Culture >> tous les services >> toutes les démarches Le CNC aide votre projet Séries et TV Ecriture et développement Production Diffusion >> toutes les aides à l'audiovisuel Actualités Dossiers Guides Décryptages >> toutes les actualités séries & TV",
+    "resumo_pagina": "Cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les ",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "Cinéma",
+        "url": "https://www.cnc.fr/cinema",
+        "score": 25
+      },
+      {
+        "texto": "Actualités",
+        "url": "https://cnc.fr/cinema/actualites",
+        "score": 25
+      },
+      {
+        "texto": "Dossiers",
+        "url": "https://cnc.fr/cinema/dossiers",
+        "score": 25
+      },
+      {
+        "texto": "Guides",
+        "url": "https://cnc.fr/cinema/guides",
+        "score": 25
+      },
+      {
+        "texto": "Décryptages",
+        "url": "https://cnc.fr/cinema/actualites/decryptages",
+        "score": 25
+      },
+      {
+        "texto": ">> toutes les actualités cinéma",
+        "url": "https://cnc.fr/cinema/actualites",
+        "score": 25
+      },
+      {
+        "texto": "Education à l'image",
+        "url": "https://cnc.fr/cinema/education-a-l-image",
+        "score": 25
+      },
+      {
+        "texto": "Ma classe au cinéma",
+        "url": "https://cnc.fr/cinema/ma-classe-au-cinema",
+        "score": 25
+      },
+      {
+        "texto": "Les Enfants des Lumière(s)",
+        "url": "https://cnc.fr/cinema/education-a-l-image/les-enfants-des-lumieres",
+        "score": 25
+      },
+      {
+        "texto": "L'Atelier cinéma",
+        "url": "https://cnc.fr/cinema/education-a-l-image/l-atelier-cinema",
+        "score": 25
+      },
+      {
+        "texto": ">> tous les dispositifs scolaires",
+        "url": "https://cnc.fr/cinema/education-a-l-image",
+        "score": 25
+      },
+      {
+        "texto": "Etudes et statistiques",
+        "url": "https://cnc.fr/cinema/etudes-et-rapports",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "série",
+        "tv"
+      ],
+      "titulo_semantico": "série"
+    },
+    "score_fonte": 0,
+    "motivos_fonte": [],
+    "score_semantico": -290,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "CNC",
+    "origem_tipo": "outro",
+    "pais": "França",
+    "classe": "fonte_contexto",
+    "titulo": "Le CNC aide votre projet Séries et TV Le CNC aide votre projet Séries et TV Ecriture et développement Production Diffusion >> toutes les aides à l'audiovisuel",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 85,
+    "ano": NaN,
+    "link": "https://cnc.fr/professionnels/aides-et-financements/audiovisuel/secteur-audiovisuel",
+    "origem": "https://cnc.fr",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Les aides à l'audiovisuel",
+    "titulo_principal": "série",
+    "page_title": "Secteur audiovisuel | CNC",
+    "breadcrumbs": "Accueil Professionnels Aides et financements Secteur audiovisuel",
+    "texto_pagina": "Les aides à l'audiovisuel Secteur audiovisuel | CNC Accueil Professionnels Aides et financements Secteur audiovisuel Cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les aides au cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Registres du cinéma et de l'audiovisuel (RCA) Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les aides au cinéma Séries & TV Actualités Dossiers Guides Décryptages >> toutes les actualités séries & TV Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Sensibilisation à l'écriture scénaristique dès le plus jeune âge - Écris ta série ! >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications séries & TV Services et démarches Catalogue des vidéos à la demande Images de la Culture >> tous les services >> toutes les démarches Le CNC aide votre projet Séries et TV Ecriture et développement Production Diffusion >> toutes les aides à l'audiovisuel Actualités Dossiers Guides Décryptages >> toutes les actualités séries & TV",
+    "resumo_pagina": "Cinéma Actualités Dossiers Guides Décryptages >> toutes les actualités cinéma Accueil des auteurs Bureau des auteurs Scénariothèque du CNC >> toutes les ressources auteurs + Soutien à la formation Education à l'image Ma classe au cinéma Les Enfants des Lumière(s) L'Atelier cinéma >> tous les dispositifs scolaires Etudes et statistiques Bilan du CNC Etudes Statistiques >> toutes les publications cinéma Services et démarches Registres du cinéma et de l'audiovisuel (RCA) Visas et classification Agrément des films de long métrage >> tous les services >> toutes les démarches Le CNC aide votre projet Cinéma Scénario Production Court métrage Patrimoine cinématographique International >> toutes les ",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "Cinéma",
+        "url": "https://www.cnc.fr/cinema",
+        "score": 25
+      },
+      {
+        "texto": "Actualités",
+        "url": "https://cnc.fr/cinema/actualites",
+        "score": 25
+      },
+      {
+        "texto": "Dossiers",
+        "url": "https://cnc.fr/cinema/dossiers",
+        "score": 25
+      },
+      {
+        "texto": "Guides",
+        "url": "https://cnc.fr/cinema/guides",
+        "score": 25
+      },
+      {
+        "texto": "Décryptages",
+        "url": "https://cnc.fr/cinema/actualites/decryptages",
+        "score": 25
+      },
+      {
+        "texto": ">> toutes les actualités cinéma",
+        "url": "https://cnc.fr/cinema/actualites",
+        "score": 25
+      },
+      {
+        "texto": "Education à l'image",
+        "url": "https://cnc.fr/cinema/education-a-l-image",
+        "score": 25
+      },
+      {
+        "texto": "Ma classe au cinéma",
+        "url": "https://cnc.fr/cinema/ma-classe-au-cinema",
+        "score": 25
+      },
+      {
+        "texto": "Les Enfants des Lumière(s)",
+        "url": "https://cnc.fr/cinema/education-a-l-image/les-enfants-des-lumieres",
+        "score": 25
+      },
+      {
+        "texto": "L'Atelier cinéma",
+        "url": "https://cnc.fr/cinema/education-a-l-image/l-atelier-cinema",
+        "score": 25
+      },
+      {
+        "texto": ">> tous les dispositifs scolaires",
+        "url": "https://cnc.fr/cinema/education-a-l-image",
+        "score": 25
+      },
+      {
+        "texto": "Etudes et statistiques",
+        "url": "https://cnc.fr/cinema/etudes-et-rapports",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "série",
+        "tv"
+      ],
+      "titulo_semantico": "série"
+    },
+    "score_fonte": 0,
+    "motivos_fonte": [],
+    "score_semantico": -290,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "MANUAL DE FILMAGENS EM SÃO PAULO FILME EM SÃO PAULO Os pedidos de autorização de filmagem em locais públicos municipais são feitos através do Cadastro Único , as produtoras devem informar as necessidades da produção e dados do projeto. A partir daí, a SPFilm assume a negociação com os órgãos envolvidos na libera SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, facilit",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 75,
+    "ano": NaN,
+    "link": "https://spcine.com.br/wp-content/uploads/guia-produtores-V821.pdf",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_principal": null,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [],
+      "titulo_semantico": ""
+    },
+    "score_fonte": 158,
+    "motivos_fonte": [
+      "fonte conhecida: +90",
+      "sinal forte: spcine",
+      "sinal forte: produção",
+      "sinal geral quente: pdf",
+      "sinal geral quente: filme",
+      "pdf"
+    ],
+    "tipo_fonte": "fonte_mae",
+    "pais_fonte": "Brasil",
+    "estado_fonte": "SP",
+    "estado": "SP",
+    "score_semantico": 283,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "pdf"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "São Paulo Film Commission",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "SOLICITE SUA AUTORIZAÇÃO DE FILMAGEM FILME EM SÃO PAULO Os pedidos de autorização de filmagem em locais públicos municipais são feitos através do Cadastro Único , as produtoras devem informar as necessidades da produção e dados do projeto. A partir daí, a SPFilm assume a negociação com os órgãos envolvidos na libera SÃO PAULO FILM COMMISSION A São Paulo Film Commission oferece assistência para a realização de produções audiovisuais na capital paulista. A missão é transformar a cidade em um cenário a céu aberto, fac",
+    "tipo": "outro",
+    "fase_produto": "producao",
+    "produto": "producao_obra",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 75,
+    "ano": NaN,
+    "link": "http://cadastro.filmesp.com",
+    "origem": "https://spcine.com.br/spfilmcommission/",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "SP Cine",
+    "titulo_principal": null,
+    "page_title": "SP Cine",
+    "breadcrumbs": "",
+    "texto_pagina": "SP Cine",
+    "resumo_pagina": "",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": false,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 0
+    },
+    "score_enriquecimento": 0,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [],
+      "titulo_semantico": ""
+    },
+    "score_fonte": 8,
+    "motivos_fonte": [
+      "sinal geral quente: filme"
+    ],
+    "score_semantico": 88,
+    "motivos_score_semantico": [
+      "termos audiovisual"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Ibermedia",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "Ibermedia Nuestras noticias La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de... Ibermedia 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 La Escola Superior de Cinema i Audiovisuals de Catalunya, ESCAC, da un paso más en su proyecto pedagógico con la puesta en marcha de tres másteres universitarios —con titulación oficial—...",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 60,
+    "ano": 2026.0,
+    "link": "https://www.programaibermedia.com/author/angulodaneri/",
+    "origem": "https://www.programaibermedia.com",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Programa Ibermedia - El espacio audiovisual iberoamericano",
+    "titulo_principal": "cinema",
+    "page_title": "Programa Ibermedia - El espacio audiovisual iberoamericano",
+    "breadcrumbs": "",
+    "texto_pagina": "Programa Ibermedia - El espacio audiovisual iberoamericano El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación",
+    "resumo_pagina": "El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de animación, reserva un...",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "Comienza el Festival de Cannes con tres películas apoyadas por Ibermedia: ‘El deshielo’, ‘ A...",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/la-residencia-del-lago-laboratorio-cinematografico-abre-su-convocatoria-con-ocho-becas-ibermedia-y-una-etapa-presencial-en-argentina/",
+        "score": 25
+      },
+      {
+        "texto": "La Residencia del Lago. Laboratorio Cinematográfico abre su convocatoria con ocho Becas Ibermedia y una...",
+        "url": "https://www.programaibermedia.com/la-residencia-del-lago-laboratorio-cinematografico-abre-su-convocatoria-con-ocho-becas-ibermedia-y-una-etapa-presencial-en-argentina/",
+        "score": 25
+      },
+      {
+        "texto": "Leer más",
+        "url": "https://www.programaibermedia.com/la-residencia-del-lago-laboratorio-cinematografico-abre-su-convocatoria-con-ocho-becas-ibermedia-y-una-etapa-presencial-en-argentina/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de...",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "Comienza el Festival de Cannes con tres películas apoyadas por Ibermedia: ‘El...",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "cinema"
+    },
+    "score_fonte": -4,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema",
+      "sinal geral frio: author"
+    ],
+    "score_semantico": -294,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Ibermedia",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de... Nuestras noticias La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de... Ibermedia 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 La Escola Superior de Cinema i Audiovisuals de Catalunya, ESCAC, da un paso más en su proyecto pedagógico con la puesta en marcha de tres másteres universitarios —con titulación oficial—...",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 60,
+    "ano": 2026.0,
+    "link": "https://www.programaibermedia.com/la-escac-anuncia-sus-masteres-universitarios-en-alianza-con-la-universidad-de-barcelona-ub/",
+    "origem": "https://www.programaibermedia.com",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB",
+    "titulo_principal": "cinema",
+    "page_title": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB - Programa Ibermedia",
+    "breadcrumbs": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB",
+    "texto_pagina": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB - Programa Ibermedia La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación Home » La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB La Escola Superior de Cinema i Audiovisuals de Catalunya, ESCAC, da un paso más en su proyecto pedagógico con la puesta en marcha de tres másteres universitarios —con titulación oficial— organizados en alianza con la Universidad de Barcelona, UB: Máster Universitario en Dirección Cinematográfica, Máster Universitario en Montaje Cinematográfico, y Máster Universitario en Documental y No Ficción. Los programas están dirigidos principalmente a profesionales de toda Iberoamérica graduados en Comunicación Audiovisual, Artes, Humanidades y Ciencias Sociales, así como a titulados en otras disciplinas que acrediten interés o experiencia en el sector audiovisual. Orientado a la formación de profesionales e investigadores en el ámbito de la dirección cinematográfica, con especial énfasis en la reflexión ética, la relevancia histórica y las posibilidades estéticas del lenguaje audiovisual. El máster profundizará en la dramaturgia desde la perspectiva de la dirección, las teorías de cineastas y el análisis de casos históricos y contemporáneos.",
+    "resumo_pagina": "El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "escac.com/ca/formacio/master-ca/master-en-direccion-cinematogrfica",
+        "url": "https://escac.com/ca/formacio/master-ca/master-en-direccion-cinematogrfica/",
+        "score": 25
+      },
+      {
+        "texto": "Comunicación Audiovisual",
+        "url": "https://www.programaibermedia.com/etiqueta/comunicacion-audiovisual/",
+        "score": 25
+      },
+      {
+        "texto": "dirección cinematográfica",
+        "url": "https://www.programaibermedia.com/etiqueta/direccion-cinematografica/",
+        "score": 25
+      },
+      {
+        "texto": "montaje cinematográfico",
+        "url": "https://www.programaibermedia.com/etiqueta/montaje-cinematografico/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de animación, reserva un lugar a ‘Decorado’ en su competición oficial, y a ‘Winnipeg, el barco de la esperanza’, en Contrechamp",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de animación, reserva un lugar a ‘Decorado’ en su competición oficial, y a ‘Winnipeg, el barco de la esperanza’, en Contrechamp",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "Comienza el Festival de Cannes con tres películas apoyadas por Ibermedia: ‘El deshielo’, ‘ A Última Cachorra’ y ‘Papito Corazón’",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de animación, reserva un lugar a ‘Decorado’ en su competición oficial, y a ‘Winnipeg, el barco de la esperanza’, en Contrechamp",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "Comienza el Festival de Cannes con tres películas apoyadas por Ibermedia: ‘El deshielo’, ‘ A Última Cachorra’ y ‘Papito Corazón’",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "cinema"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -274,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Ibermedia",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "Nuestras noticias La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de... Ibermedia 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 La Escola Superior de Cinema i Audiovisuals de Catalunya, ESCAC, da un paso más en su proyecto pedagógico con la puesta en marcha de tres másteres universitarios —con titulación oficial—...",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "desenvolvimento_roteiro",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 60,
+    "ano": 2026.0,
+    "link": "http://pinterest.com/pin/create/button?url=https%3A%2F%2Fwww.programaibermedia.com%2Fla-escac-anuncia-sus-masteres-universitarios-en-alianza-con-la-universidad-de-barcelona-ub%2F&media=https%3A%2F%2Fwww.programaibermedia.com%2Fwp-content%2Fuploads%2F2026%2F05%2FESCAC_masteres-universitarios_3.jpg&description=La%20ESCAC%20anuncia%20sus%20m%C3%A1steres%20universitarios%20en%20alianza%20con%20la%20Universidad%20de%20Barcelona%2C%20UB",
+    "origem": "https://www.programaibermedia.com",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Pin Builder",
+    "titulo_principal": "cinema",
+    "page_title": "Pinterest",
+    "breadcrumbs": "",
+    "texto_pagina": "Pin Builder Pinterest",
+    "resumo_pagina": "",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": false,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 0
+    },
+    "score_enriquecimento": 0,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "cinema"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -374,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Ibermedia",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "Nuestras noticias La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de... Ibermedia 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 La Escola Superior de Cinema i Audiovisuals de Catalunya, ESCAC, da un paso más en su proyecto pedagógico con la puesta en marcha de tres másteres universitarios —con titulación oficial—...",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 60,
+    "ano": 2026.0,
+    "link": "https://www.programaibermedia.com",
+    "origem": "https://www.programaibermedia.com",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Programa Ibermedia - El espacio audiovisual iberoamericano",
+    "titulo_principal": "cinema",
+    "page_title": "Programa Ibermedia - El espacio audiovisual iberoamericano",
+    "breadcrumbs": "",
+    "texto_pagina": "Programa Ibermedia - El espacio audiovisual iberoamericano El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación",
+    "resumo_pagina": "El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de animación, reserva un...",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "Comienza el Festival de Cannes con tres películas apoyadas por Ibermedia: ‘El deshielo’, ‘ A...",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/la-residencia-del-lago-laboratorio-cinematografico-abre-su-convocatoria-con-ocho-becas-ibermedia-y-una-etapa-presencial-en-argentina/",
+        "score": 25
+      },
+      {
+        "texto": "La Residencia del Lago. Laboratorio Cinematográfico abre su convocatoria con ocho Becas Ibermedia y una...",
+        "url": "https://www.programaibermedia.com/la-residencia-del-lago-laboratorio-cinematografico-abre-su-convocatoria-con-ocho-becas-ibermedia-y-una-etapa-presencial-en-argentina/",
+        "score": 25
+      },
+      {
+        "texto": "Leer más",
+        "url": "https://www.programaibermedia.com/la-residencia-del-lago-laboratorio-cinematografico-abre-su-convocatoria-con-ocho-becas-ibermedia-y-una-etapa-presencial-en-argentina/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de...",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "Comienza el Festival de Cannes con tres películas apoyadas por Ibermedia: ‘El...",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "cinema"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -274,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Ibermedia",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "Nuestras noticias Nuestras noticias La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de... Ibermedia 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 La Escola Superior de Cinema i Audiovisuals de Catalunya, ESCAC, da un paso más en su proyecto pedagógico con la puesta en marcha de tres másteres universitarios —con titulación oficial—...",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 60,
+    "ano": 2026.0,
+    "link": "https://www.programaibermedia.com/la-escac-anuncia-sus-masteres-universitarios-en-alianza-con-la-universidad-de-barcelona-ub/",
+    "origem": "https://www.programaibermedia.com",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB",
+    "titulo_principal": "cinema",
+    "page_title": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB - Programa Ibermedia",
+    "breadcrumbs": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB",
+    "texto_pagina": "La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB - Programa Ibermedia La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación Home » La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de Barcelona, UB La Escola Superior de Cinema i Audiovisuals de Catalunya, ESCAC, da un paso más en su proyecto pedagógico con la puesta en marcha de tres másteres universitarios —con titulación oficial— organizados en alianza con la Universidad de Barcelona, UB: Máster Universitario en Dirección Cinematográfica, Máster Universitario en Montaje Cinematográfico, y Máster Universitario en Documental y No Ficción. Los programas están dirigidos principalmente a profesionales de toda Iberoamérica graduados en Comunicación Audiovisual, Artes, Humanidades y Ciencias Sociales, así como a titulados en otras disciplinas que acrediten interés o experiencia en el sector audiovisual. Orientado a la formación de profesionales e investigadores en el ámbito de la dirección cinematográfica, con especial énfasis en la reflexión ética, la relevancia histórica y las posibilidades estéticas del lenguaje audiovisual. El máster profundizará en la dramaturgia desde la perspectiva de la dirección, las teorías de cineastas y el análisis de casos históricos y contemporáneos.",
+    "resumo_pagina": "El programa Ibermedia en cifras Contacto Convocatorias Nuestras convocatorias Presentados Preseleccionados Seleccionados El marco legal Marco Legal Iberoamericano Legislación por países Arbitraje y mediación",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [
+      {
+        "texto": "escac.com/ca/formacio/master-ca/master-en-direccion-cinematogrfica",
+        "url": "https://escac.com/ca/formacio/master-ca/master-en-direccion-cinematogrfica/",
+        "score": 25
+      },
+      {
+        "texto": "Comunicación Audiovisual",
+        "url": "https://www.programaibermedia.com/etiqueta/comunicacion-audiovisual/",
+        "score": 25
+      },
+      {
+        "texto": "dirección cinematográfica",
+        "url": "https://www.programaibermedia.com/etiqueta/direccion-cinematografica/",
+        "score": 25
+      },
+      {
+        "texto": "montaje cinematográfico",
+        "url": "https://www.programaibermedia.com/etiqueta/montaje-cinematografico/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de animación, reserva un lugar a ‘Decorado’ en su competición oficial, y a ‘Winnipeg, el barco de la esperanza’, en Contrechamp",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de animación, reserva un lugar a ‘Decorado’ en su competición oficial, y a ‘Winnipeg, el barco de la esperanza’, en Contrechamp",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "Comienza el Festival de Cannes con tres películas apoyadas por Ibermedia: ‘El deshielo’, ‘ A Última Cachorra’ y ‘Papito Corazón’",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "El Festival de Annecy, el más importante del mundo del cine de animación, reserva un lugar a ‘Decorado’ en su competición oficial, y a ‘Winnipeg, el barco de la esperanza’, en Contrechamp",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      },
+      {
+        "texto": "Comienza el Festival de Cannes con tres películas apoyadas por Ibermedia: ‘El deshielo’, ‘ A Última Cachorra’ y ‘Papito Corazón’",
+        "url": "https://www.programaibermedia.com/comienza-el-festival-de-cannes-con-tres-peliculas-apoyadas-por-ibermedia-el-deshielo-a-ultima-cachorra-y-papito-corazon/",
+        "score": 25
+      },
+      {
+        "texto": "",
+        "url": "https://www.programaibermedia.com/el-festival-de-annecy-el-mas-importante-del-mundo-del-cine-de-animacion-reserva-un-lugar-a-decorado-en-su-competicion-oficial-y-a-winnipeg-el-barco-de-la-esperanza/",
+        "score": 25
+      }
+    ],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": true,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 30
+    },
+    "score_enriquecimento": 30,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "cinema"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -274,
+    "motivos_score_semantico": [
+      "audiovisual",
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Ibermedia",
+    "origem_tipo": "outro",
+    "pais": "Internacional",
+    "classe": "noticia",
+    "titulo": "Nuestras noticias La ESCAC anuncia sus másteres universitarios en alianza con la Universidad de... Ibermedia 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 19 de mayo, 2026 La Escola Superior de Cinema i Audiovisuals de Catalunya, ESCAC, da un paso más en su proyecto pedagógico con la puesta en marcha de tres másteres universitarios —con titulación oficial—...",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "audiovisual",
+    "valor": NaN,
+    "score": 35,
+    "ano": 2026.0,
+    "link": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.programaibermedia.com%2Fla-escac-anuncia-sus-masteres-universitarios-en-alianza-con-la-universidad-de-barcelona-ub%2F",
+    "origem": "https://www.programaibermedia.com",
+    "contexto_audiovisual": true,
+    "titulo_pagina": "Facebook",
+    "titulo_principal": "cinema",
+    "page_title": "Facebook",
+    "breadcrumbs": "",
+    "texto_pagina": "Facebook",
+    "resumo_pagina": "",
+    "data_publicacao": null,
+    "published_at": null,
+    "prazo": null,
+    "deadline": null,
+    "links_relevantes": [],
+    "sinais_pagina": {
+      "tem_edital": false,
+      "tem_inscricao": false,
+      "tem_licitacao": false,
+      "tem_audiovisual": false,
+      "tem_prazo": false,
+      "tem_pnab_lpg": false,
+      "score_enriquecimento": 0
+    },
+    "score_enriquecimento": 0,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [
+        "cinema",
+        "audiovisual"
+      ],
+      "titulo_semantico": "cinema"
+    },
+    "score_fonte": 16,
+    "motivos_fonte": [
+      "sinal geral quente: audiovisual",
+      "sinal geral quente: cinema"
+    ],
+    "score_semantico": -374,
+    "motivos_score_semantico": [
+      "termos audiovisual",
+      "resultado/homologação",
+      "ata"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Fundação Municipal de Cultura | Prefeitura de Belo Horizonte",
+    "origem_tipo": "municipal",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "Fundação Municipal de Cultura A Fundação Municipal de Cultura - FMC, instituída pela Lei n.º 9.011, em 1º de janeiro de 2005, tem por finalidades contribuir para o planejamento e a formulação de políticas públicas e executar programas, projetos e atividades voltadas ao desenvolvimento cultural do Município de Belo Horizonte. Vinculada à Secretaria Municipal de Cultura - SMC , a Fundação integra a Administração Públic",
+    "tipo": "outro",
+    "fase_produto": "desenvolvimento",
+    "produto": "desenvolvimento_roteiro",
+    "categoria": "cultura",
+    "valor": NaN,
+    "score": 22,
+    "ano": 2005.0,
+    "link": "javascript:window.print()",
+    "origem": "https://prefeitura.pbh.gov.br/fundacao-municipal-de-cultura",
+    "contexto_audiovisual": true,
+    "titulo_principal": null,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [],
+      "titulo_semantico": ""
+    },
+    "score_fonte": 0,
+    "motivos_fonte": [],
+    "score_semantico": -250,
+    "motivos_score_semantico": [
+      "muito antigo"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "bolsas e apoios",
+    "origem_tipo": "outro",
+    "pais": "Não identificado",
+    "classe": "oportunidade",
+    "titulo": "responsible use of artificial intelligence in government The Canada Council’s use of AI is aligned with the Government of Canada’s responsible use of artificial intelligence in government . To safeguard privacy, information and intellectual property, the Canada Council does not use publicly available versions of AI tools such as ChatGP",
+    "tipo": "lab",
+    "fase_produto": "nao identificado",
+    "produto": "formacao_mentoria",
+    "categoria": "inovacao",
+    "valor": NaN,
+    "score": 12,
+    "ano": NaN,
+    "link": "https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai.html",
+    "origem": "https://canadacouncil.ca/funding/resources/guidance-on-ai-in-grant-applications",
+    "contexto_audiovisual": true,
+    "titulo_principal": null,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [],
+      "titulo_semantico": ""
+    },
+    "score_fonte": -20,
+    "motivos_fonte": [
+      "sinal geral frio: privacy"
+    ],
+    "score_semantico": -20,
+    "motivos_score_semantico": [],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Secult ES",
+    "origem_tipo": "estadual",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "Baixar Consulta Pública LICC Conteúdo Atualização Formato Tamanho Decreto 5.035-R de 15 de dezembro de 2021 16/12/2021 pdf 248 KB Baixar",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "inovacao",
+    "valor": NaN,
+    "score": -20,
+    "ano": 2021.0,
+    "link": "https://secult.es.gov.br/media/002/Decreto%205.035-R%20de%2015%20de%20dezembro%20de%202021.pdf",
+    "origem": "https://secult.es.gov.br/grupodearquivos",
+    "contexto_audiovisual": true,
+    "titulo_principal": null,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [],
+      "titulo_semantico": ""
+    },
+    "score_fonte": 20,
+    "motivos_fonte": [
+      "sinal geral quente: pdf",
+      "pdf"
+    ],
+    "score_semantico": -185,
+    "motivos_score_semantico": [
+      "pdf",
+      "muito antigo"
+    ],
+    "categoria_feed": "descarte"
+  },
+  {
+    "fonte": "Secult ES",
+    "origem_tipo": "estadual",
+    "pais": "Brasil",
+    "classe": "noticia",
+    "titulo": "Decreto 5.035-R de 15 de dezembro de 2021 Consulta Pública LICC Conteúdo Atualização Formato Tamanho Decreto 5.035-R de 15 de dezembro de 2021 16/12/2021 pdf 248 KB Baixar",
+    "tipo": "outro",
+    "fase_produto": "nao identificado",
+    "produto": "nao identificado",
+    "categoria": "inovacao",
+    "valor": NaN,
+    "score": -20,
+    "ano": 2021.0,
+    "link": "https://secult.es.gov.br/media/002/Decreto%205.035-R%20de%2015%20de%20dezembro%20de%202021.pdf",
+    "origem": "https://secult.es.gov.br/grupodearquivos",
+    "contexto_audiovisual": true,
+    "titulo_principal": null,
+    "resumo": null,
+    "tipo_contexto": "noticia",
+    "possivel_lixo": false,
+    "titulo_regional": null,
+    "subtitulo_regional": "",
+    "primeiro_paragrafo": "",
+    "texto_semantico_regional": "",
+    "leitura_semantica": {
+      "tipo_contexto": "indefinido",
+      "objetos_detectados": [],
+      "titulo_semantico": ""
+    },
+    "score_fonte": 20,
+    "motivos_fonte": [
+      "sinal geral quente: pdf",
+      "pdf"
+    ],
+    "score_semantico": -185,
+    "motivos_score_semantico": [
+      "pdf",
+      "muito antigo"
+    ],
+    "categoria_feed": "descarte"
+  }
+]

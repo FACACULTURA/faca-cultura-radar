@@ -1,0 +1,8 @@
+pandas
+requests
+beautifulsoup4
+lxml
+flask
+uvicorn 
+fastapi
+python-multipart
